@@ -1,0 +1,65 @@
+nav {
+    float: left;
+    width: 30%;
+}
+
+section {
+    float: right;
+    width: 70%;
+}
+
+h1 {
+    font-style: normal;
+    font-size: 4em;
+    font-family: "Georgia";
+    font-weight: bold;
+    color: gray;
+}
+
+h2  {
+    font-style: normal;
+    font-size: 2em;
+    font-family: "Georgia";
+    font-weight: bold;
+    text-decoration: underline;
+    color: #e6681f;
+}
+
+p { 
+    font-style: normal;
+    font-family: "Georgia";
+    font-weight: normal;
+    color:black;
+}
+
+nav a{
+    color: #9c4a4a;
+}
+
+table {
+    border-spacing: 2px;
+    border: 2px solid #000;
+    border-collapse: collapse; 
+  }
+
+tr {
+    border-bottom: 1px solid #000;
+}
+td {
+    padding: 5px 15px;
+}
+th, td {
+    border-right: 1px solid;
+}
+
+.table-label {
+    color: #bb6223;
+}
+
+.title-name {
+    font-weight: bold;
+}
+
+.title-name span {
+    color: #ea5700;
+}
